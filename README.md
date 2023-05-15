@@ -4,7 +4,7 @@
   
   <img src="cluster-analysis.png" width=500/>
   <hr width=500>
-  Clustering [^1]
+  Clustering [^1] 
 
 </div>
   
