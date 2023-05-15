@@ -1,5 +1,7 @@
 # Data
 
+This dataset with historical stock prices (Feb 8, 2013 till Feb 7, 2018) for all companies currently found on the S&P 500 index.
+
 - Date - in format: yy-mm-dd
 - Open - price of the stock at market open (this is NYSE data so all in USD)
 - High - Highest price reached in the day
