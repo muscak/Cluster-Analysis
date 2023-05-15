@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  <img src="cluster-analysis.png" width=500/>
-  <hr width=500>
-  Clustering [^1] 
+  | <img src="cluster-analysis.png" width=500/> |
+  |:--:|
+  | Clustering [^1] |
 
 </div>
   
